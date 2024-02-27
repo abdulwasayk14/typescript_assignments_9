@@ -1,1 +1,1 @@
-# typescript_assignments_11
+# typescript_assignments_11_Names
